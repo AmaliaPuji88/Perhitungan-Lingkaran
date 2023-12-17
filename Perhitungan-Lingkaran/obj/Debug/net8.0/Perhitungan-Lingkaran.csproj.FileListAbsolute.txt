@@ -1,0 +1,42 @@
+C:\Users\fhm\source\repos\Perhitungan-Lingkaran\Perhitungan-Lingkaran\bin\Debug\net8.0\Perhitungan-Lingkaran.exe
+C:\Users\fhm\source\repos\Perhitungan-Lingkaran\Perhitungan-Lingkaran\bin\Debug\net8.0\Perhitungan-Lingkaran.deps.json
+C:\Users\fhm\source\repos\Perhitungan-Lingkaran\Perhitungan-Lingkaran\bin\Debug\net8.0\Perhitungan-Lingkaran.runtimeconfig.json
+C:\Users\fhm\source\repos\Perhitungan-Lingkaran\Perhitungan-Lingkaran\bin\Debug\net8.0\Perhitungan-Lingkaran.dll
+C:\Users\fhm\source\repos\Perhitungan-Lingkaran\Perhitungan-Lingkaran\bin\Debug\net8.0\Perhitungan-Lingkaran.pdb
+C:\Users\fhm\source\repos\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fhm\source\repos\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.AssemblyInfoInputs.cache
+C:\Users\fhm\source\repos\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.AssemblyInfo.cs
+C:\Users\fhm\source\repos\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.csproj.CoreCompileInputs.cache
+C:\Users\fhm\source\repos\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.dll
+C:\Users\fhm\source\repos\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\refint\Perhitungan-Lingkaran.dll
+C:\Users\fhm\source\repos\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.pdb
+C:\Users\fhm\source\repos\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.genruntimeconfig.cache
+C:\Users\fhm\source\repos\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\ref\Perhitungan-Lingkaran.dll
+D:\Tugas ayang\Perhitungan-Lingkaran\Perhitungan-Lingkaran\bin\Debug\net8.0\Perhitungan-Lingkaran.exe
+D:\Tugas ayang\Perhitungan-Lingkaran\Perhitungan-Lingkaran\bin\Debug\net8.0\Perhitungan-Lingkaran.deps.json
+D:\Tugas ayang\Perhitungan-Lingkaran\Perhitungan-Lingkaran\bin\Debug\net8.0\Perhitungan-Lingkaran.runtimeconfig.json
+D:\Tugas ayang\Perhitungan-Lingkaran\Perhitungan-Lingkaran\bin\Debug\net8.0\Perhitungan-Lingkaran.dll
+D:\Tugas ayang\Perhitungan-Lingkaran\Perhitungan-Lingkaran\bin\Debug\net8.0\Perhitungan-Lingkaran.pdb
+D:\Tugas ayang\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas ayang\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.AssemblyInfoInputs.cache
+D:\Tugas ayang\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.AssemblyInfo.cs
+D:\Tugas ayang\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.csproj.CoreCompileInputs.cache
+D:\Tugas ayang\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.dll
+D:\Tugas ayang\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\refint\Perhitungan-Lingkaran.dll
+D:\Tugas ayang\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.pdb
+D:\Tugas ayang\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.genruntimeconfig.cache
+D:\Tugas ayang\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\ref\Perhitungan-Lingkaran.dll
+D:\Tugas Amalia Puji Lestari\Perhitungan-Lingkaran\Perhitungan-Lingkaran\bin\Debug\net8.0\Perhitungan-Lingkaran.exe
+D:\Tugas Amalia Puji Lestari\Perhitungan-Lingkaran\Perhitungan-Lingkaran\bin\Debug\net8.0\Perhitungan-Lingkaran.deps.json
+D:\Tugas Amalia Puji Lestari\Perhitungan-Lingkaran\Perhitungan-Lingkaran\bin\Debug\net8.0\Perhitungan-Lingkaran.runtimeconfig.json
+D:\Tugas Amalia Puji Lestari\Perhitungan-Lingkaran\Perhitungan-Lingkaran\bin\Debug\net8.0\Perhitungan-Lingkaran.dll
+D:\Tugas Amalia Puji Lestari\Perhitungan-Lingkaran\Perhitungan-Lingkaran\bin\Debug\net8.0\Perhitungan-Lingkaran.pdb
+D:\Tugas Amalia Puji Lestari\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Amalia Puji Lestari\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.AssemblyInfoInputs.cache
+D:\Tugas Amalia Puji Lestari\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.AssemblyInfo.cs
+D:\Tugas Amalia Puji Lestari\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.csproj.CoreCompileInputs.cache
+D:\Tugas Amalia Puji Lestari\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.dll
+D:\Tugas Amalia Puji Lestari\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\refint\Perhitungan-Lingkaran.dll
+D:\Tugas Amalia Puji Lestari\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.pdb
+D:\Tugas Amalia Puji Lestari\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\Perhitungan-Lingkaran.genruntimeconfig.cache
+D:\Tugas Amalia Puji Lestari\Perhitungan-Lingkaran\Perhitungan-Lingkaran\obj\Debug\net8.0\ref\Perhitungan-Lingkaran.dll
